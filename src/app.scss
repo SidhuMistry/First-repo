@@ -1,0 +1,9 @@
+.div{
+    color: red;
+    .Card{
+        color: yellow;
+        &_img{
+            color: cornflowerblue;
+        }
+    }
+}
